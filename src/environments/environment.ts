@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiurl: 'http://localhost:3001/',
-  // apiurl: 'https://api.wdcoders.com/chat/',
+  // apiurl: 'http://localhost:3001/',
+  apiurl: 'https://api.wdcoders.com/chat/',
 };
 
 /*
